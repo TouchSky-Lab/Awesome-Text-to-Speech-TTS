@@ -27,10 +27,16 @@
 - Parallel WaveGAN [donwload](https://drive.google.com/open?id=10M6H88jEUGbRWBmU1Ff2VaTmOAeL8CEy)  
 
 
+# Dataset
+- [Chinese Standard Mandarin Speech Copus](https://www.data-baker.com/open_source.html): Mandarin female speaker
+- [LJSpeech0](https://keithito.com/LJ-Speech-Dataset/):  English female speaker  
+- [VCTK](https://datashare.ed.ac.uk/handle/10283/2950): English multi-speaker
+- [LibriTTS](https://arxiv.org/abs/1904.02882): English multi-speaker
 
 # Demo
 - Real-time TTS demo with ESPnet1 [Web Site](https://colab.research.google.com/github/espnet/notebook/blob/master/tts_realtime_demo.ipynb)
 - Real-time TTS demo with ESPnet2 [Web Site](https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb)
+
 
 
 
