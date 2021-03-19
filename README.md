@@ -1,9 +1,5 @@
-# Awesome-Text-to-Speech-TTS
-前沿TTS文章与技术汇总
-
-
 # Paper 
-
+- FastSpeech 2: Fast and High-Quality End-to-End Text to Speech[[paper](https://arxiv.org/abs/2006.04558)][code]
 
 # English Pre-trained Model
 ## pretrained feature generation model 
