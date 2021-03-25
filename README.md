@@ -1,4 +1,4 @@
-# Paper 
+# Related Works 
 ## 2020 
 - FastSpeech 2: Fast and High-Quality End-to-End Text to Speech[[paper](https://arxiv.org/abs/2006.04558)][code]
 - FastPitch: Parallel Text-to-speech with Pitch Prediction[[paper](https://arxiv.org/abs/2006.06873)][[code](https://fastpitch.github.io/)]
