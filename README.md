@@ -1,4 +1,4 @@
-# Related Works 
+# Papers of Feature Generation Model 
 ## 2020 
 - FastSpeech 2: Fast and High-Quality End-to-End Text to Speech[[paper](https://arxiv.org/abs/2006.04558)][code]
 - FastPitch: Parallel Text-to-speech with Pitch Prediction[[paper](https://arxiv.org/abs/2006.06873)][[code](https://fastpitch.github.io/)]
@@ -24,7 +24,16 @@
 ## 2017
 - Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions[[paper]()][[code]()]
 - Tacotron: Towards End-to-End Speech Synthesis[[paper]()][[code]()]
-- 
+
+
+# Papers of Vocoder Model
+- MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis. 2019 [[paper](https://arxiv.org/abs/1910.06711)][[code]()]
+- Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram. 2020 [[paper](https://arxiv.org/abs/1910.11480)][[code]()]
+- Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech. Interspeech 2020 [[paper](https://arxiv.org/abs/2005.05106)][[code]()]
+
+
+
+
 
 # English Pre-trained Model
 ## pretrained feature generation model 
