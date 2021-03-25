@@ -71,6 +71,7 @@
 # Reference
 - https://github.com/seungwonpark/awesome-tts-samples
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers#Speaker-Verification
+- https://github.com/xcmyz/speech-synthesis-paper
 
 
 
