@@ -1,4 +1,4 @@
-# Papers of Feature Generation Model 
+# Feature Generation Model 
 ## 2020 
 - FastSpeech 2: Fast and High-Quality End-to-End Text to Speech[[paper](https://arxiv.org/abs/2006.04558)][code]
 - FastPitch: Parallel Text-to-speech with Pitch Prediction[[paper](https://arxiv.org/abs/2006.06873)][[code](https://fastpitch.github.io/)]
@@ -26,7 +26,7 @@
 - Tacotron: Towards End-to-End Speech Synthesis[[paper]()][[code]()]
 
 
-# Papers of Vocoder Model
+# Vocoder Model
 
 ## Autoregressive Model 
 - WaveNet: WaveNet: A Generative Model for Raw Audio (2016)
@@ -44,6 +44,20 @@
 - Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram. ICASSP 2020 [[paper](https://arxiv.org/abs/1910.11480)][[code]()]
 - Parallel-WaveGAN (New): Parallel waveform synthesis based on generative adversarial networks with voicing-aware conditional discriminators (2020-10)
 - Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech. Interspeech 2020 [[paper](https://arxiv.org/abs/2005.05106)][[code]()]
+
+
+# TTS towards Stylization
+## Expressive TTS
+
+
+## MultiSpeaker TTS
+- Meta-Learning for TTS: Sample Efficient Adaptive Text-to-Speech (ICLR 2019)
+- SV-Tacotron: Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis (NeurIPS 2018)
+- Deep Voice V3: Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning (ICLR 2018)
+- Zero-Shot Multi-Speaker Text-To-Speech with State-of-the-art Neural Speaker Embeddings (ICASSP 2020)
+- MultiSpeech: MultiSpeech: Multi-Speaker Text to Speech with Transformer (2020)
+- SC-WaveRNN: Speaker Conditional WaveRNN: Towards Universal Neural Vocoder for Unseen Speaker and Recording Conditions (Interspeech 2020)
+- MultiSpeaker Dataset: AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines (2020)
 
 
 # English Pre-trained Model
