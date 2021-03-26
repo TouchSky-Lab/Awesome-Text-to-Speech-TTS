@@ -27,12 +27,23 @@
 
 
 # Papers of Vocoder Model
+
+## Autoregressive Model 
+- WaveNet: WaveNet: A Generative Model for Raw Audio (2016)
+- WaveRNN: Efficient Neural Audio Synthesis (ICML 2018)
+- WaveGAN: Adversarial Audio Synthesis (ICLR 2019)
+- LPCNet: LPCNet: Improving Neural Speech Synthesis Through Linear Prediction (ICASSP 2019)
+- Towards achieving robust universal neural vocoding (Interspeech 2019)
+- GAN-TTS: High Fidelity Speech Synthesis with Adversarial Networks (2019)
+- MultiBand-WaveRNN: DurIAN: Duration Informed Attention Network For Multimodal Synthesis (2019)
+
+## Non-Autoregressive Model 
+
 - MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis. NIPS 2019 [[paper](https://arxiv.org/abs/1910.06711)][[code]()]
+- Parallel-WaveNet: Parallel WaveNet: Fast High-Fidelity Speech Synthesis (2017)
 - Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram. ICASSP 2020 [[paper](https://arxiv.org/abs/1910.11480)][[code]()]
+- Parallel-WaveGAN (New): Parallel waveform synthesis based on generative adversarial networks with voicing-aware conditional discriminators (2020-10)
 - Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech. Interspeech 2020 [[paper](https://arxiv.org/abs/2005.05106)][[code]()]
-
-
-
 
 
 # English Pre-trained Model
@@ -56,6 +67,8 @@
 
 ## pretrained vocoder model
 - Parallel WaveGAN [donwload](https://drive.google.com/open?id=10M6H88jEUGbRWBmU1Ff2VaTmOAeL8CEy)  
+
+
 
 
 # Dataset
