@@ -53,7 +53,7 @@
 ## MultiSpeaker TTS
 - Meta-Learning for TTS: Sample Efficient Adaptive Text-to-Speech (ICLR 2019)
 - SV-Tacotron: Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis (NeurIPS 2018)
-- Deep Voice V3: Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning (ICLR 2018)
+- Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning (ICLR 2018)
 - Zero-Shot Multi-Speaker Text-To-Speech with State-of-the-art Neural Speaker Embeddings (ICASSP 2020)
 - MultiSpeech: MultiSpeech: Multi-Speaker Text to Speech with Transformer (2020)
 - SC-WaveRNN: Speaker Conditional WaveRNN: Towards Universal Neural Vocoder for Unseen Speaker and Recording Conditions (Interspeech 2020)
@@ -81,9 +81,6 @@
 
 ## pretrained vocoder model
 - Parallel WaveGAN [donwload](https://drive.google.com/open?id=10M6H88jEUGbRWBmU1Ff2VaTmOAeL8CEy)  
-
-
-
 
 # Dataset
 - [Chinese Standard Mandarin Speech Copus](https://www.data-baker.com/open_source.html): Mandarin female speaker
