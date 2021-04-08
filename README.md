@@ -60,6 +60,16 @@
 - MultiSpeaker Dataset: AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines (2020)
 
 
+
+# SDK Package
+## Python SDK Package
+- gTTS(Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. [[link](https://pypi.org/project/gTTS/)]
+
+
+
+
+
+
 # English Pre-trained Model
 ## pretrained feature generation model 
 - Tacotron [donwload](https://drive.google.com/open?id=1lFfeyewyOsxaNO-DEWy9iSz6qB9ZS1UR)  
