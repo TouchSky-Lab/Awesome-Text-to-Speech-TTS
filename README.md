@@ -57,7 +57,33 @@
 - Zero-Shot Multi-Speaker Text-To-Speech with State-of-the-art Neural Speaker Embeddings (ICASSP 2020)
 - MultiSpeech: MultiSpeech: Multi-Speaker Text to Speech with Transformer (2020)
 - SC-WaveRNN: Speaker Conditional WaveRNN: Towards Universal Neural Vocoder for Unseen Speaker and Recording Conditions (Interspeech 2020)
-- MultiSpeaker Dataset: AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines (2020)
+- MultiSpeaker Dataset: AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines (2020)fe
+
+# Adaptive TTS
+- ADASPEECH: ADAPTIVE TEXT TO SPEECH FOR CUSTOM VOICE. ICLR 2021.
+- BOFFIN TTS: FEW-SHOT SPEAKER ADAPTATION BY BAYESIAN OPTIMIZATION. 2020
+- Attentron: Few-Shot Text-to-Speech Utilizing Attention-Based Variable-Length Embedding
+- StrawNet: Self-TrainingWaveNet for TTS in Low-Data Regimes
+- SAMPLE EFFICIENT ADAPTIVE TEXT-TO-SPEECH. ICLR 2019. 
+
+# Controllable TTS
+- Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis
+
+
+# Voice Conversion and TTS
+- MULTI-SPEAKER AND MULTI-DOMAIN EMOTIONAL VOICE CONVERSION USING FACTORIZED HIERARCHICAL VARIATIONAL AUTOENCODER
+- AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss. ICML,2019.
+- Investigation of using disentangled and interpretable representations for one-shot cross-lingual voice conversion
+- MELLOTRON: MULTISPEAKER EXPRESSIVE VOICE SYNTHESIS BY CONDITIONING ON RHYTHM, PITCH AND GLOBAL STYLE TOKENS
+
+# TTS with Speaker Embedding
+- Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis. NIPS,2018.
+- INVESTIGATING ON INCORPORATING PRETRAINED AND LEARNABLE SPEAKER REPRESENTATIONS FOR MULTI-SPEAKER MULTI-STYLE TEXT-TO-SPEECH
+- 
+
+# VC with Speaker Embedding
+- One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization
+- 
 
 
 
