@@ -59,17 +59,6 @@
 # Controllable TTS
 - Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis
 
-
-# Voice Conversion and TTS
-- MULTI-SPEAKER AND MULTI-DOMAIN EMOTIONAL VOICE CONVERSION USING FACTORIZED HIERARCHICAL VARIATIONAL AUTOENCODER
-- AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss. ICML,2019.
-- Investigation of using disentangled and interpretable representations for one-shot cross-lingual voice conversion
-- MELLOTRON: MULTISPEAKER EXPRESSIVE VOICE SYNTHESIS BY CONDITIONING ON RHYTHM, PITCH AND GLOBAL STYLE TOKENS
-- ONE-SHOT VOICE CONVERSION BY VECTOR QUANTIZATION
-- BOOTSTRAPPING NON-PARALLEL VOICE CONVERSION FROM SPEAKER-ADAPTIVE TEXT-TO-SPEECH
-- Transfer Learning From Speech Synthesis to Voice Conversion With Non-Parallel Training Data
-
-
 # TTS with Speaker Embedding
 - Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis. NIPS,2018.
 - INVESTIGATING ON INCORPORATING PRETRAINED AND LEARNABLE SPEAKER REPRESENTATIONS FOR MULTI-SPEAKER MULTI-STYLE TEXT-TO-SPEECH
