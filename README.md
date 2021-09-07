@@ -47,7 +47,11 @@
 - Zero-Shot Multi-Speaker Text-To-Speech with State-of-the-art Neural Speaker Embeddings (ICASSP 2020)
 - MultiSpeech: MultiSpeech: Multi-Speaker Text to Speech with Transformer (2020)
 - SC-WaveRNN: Speaker Conditional WaveRNN: Towards Universal Neural Vocoder for Unseen Speaker and Recording Conditions (Interspeech 2020)
-- MultiSpeaker Dataset: AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines (2020)fe
+- MultiSpeaker Dataset: AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines (2020)
+- Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis. NIPS,2018.
+- INVESTIGATING ON INCORPORATING PRETRAINED AND LEARNABLE SPEAKER REPRESENTATIONS FOR MULTI-SPEAKER MULTI-STYLE TEXT-TO-SPEECH
+- VOICE CLONING: A MULTI-SPEAKER TEXT-TO-SPEECH SYNTHESIS APPROACH BASED ON TRANSFER LEARNING
+- ZERO-SHOT MULTI-SPEAKER TEXT-TO-SPEECH WITH STATE-OF-THE-ART NEURAL SPEAKER EMBEDDINGS
 
 # 4 Adaptive TTS
 - ADASPEECH: ADAPTIVE TEXT TO SPEECH FOR CUSTOM VOICE. ICLR 2021.
@@ -56,19 +60,8 @@
 - StrawNet: Self-TrainingWaveNet for TTS in Low-Data Regimes
 - SAMPLE EFFICIENT ADAPTIVE TEXT-TO-SPEECH. ICLR 2019. 
 
-# Controllable TTS
+# 5. Controllable TTS (Disentangled Representations)
 - Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis
-
-# TTS with Speaker Embedding
-- Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis. NIPS,2018.
-- INVESTIGATING ON INCORPORATING PRETRAINED AND LEARNABLE SPEAKER REPRESENTATIONS FOR MULTI-SPEAKER MULTI-STYLE TEXT-TO-SPEECH
-- VOICE CLONING: A MULTI-SPEAKER TEXT-TO-SPEECH SYNTHESIS APPROACH BASED ON TRANSFER LEARNING
-- ZERO-SHOT MULTI-SPEAKER TEXT-TO-SPEECH WITH STATE-OF-THE-ART NEURAL SPEAKER EMBEDDINGS
-
-# VC with Speaker Embedding
-- One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization
-- Pretraining Techniques for Sequence-to-Sequence Voice Conversion
-
 
 # SDK Package
 ## Python SDK Package
