@@ -1,33 +1,23 @@
 # Feature Generation Model 
-## 2020 
 - FastSpeech 2: Fast and High-Quality End-to-End Text to Speech[[paper](https://arxiv.org/abs/2006.04558)][code]
 - FastPitch: Parallel Text-to-speech with Pitch Prediction[[paper](https://arxiv.org/abs/2006.06873)][[code](https://fastpitch.github.io/)]
 - EATS: End-to-End Adversarial Text-to-Speech[[paper](https://arxiv.org/abs/2006.03575)][[code](https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech)]
 - Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search[[paper](https://arxiv.org/abs/2005.11129)][[code](https://jaywalnut310.github.io/glow-tts-demo)]
 - Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis[[paper](https://arxiv.org/abs/2005.05957)][[code](https://nv-adlr.github.io/Flowtron)]
-
-
-## 2019
 - Tacotron2+DCA: Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis [[paper]()][[code]()]
 - GAN-TTS: High Fidelity Speech Synthesis with Adversarial Networks [[paper]()][[code]()]
 - Multi-lingual Tacotron2: Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning[[paper]()][[code]()]
 - MelNet: A Generative Model for Audio in the Frequency Domain[[paper]()][[code]()]
 - FastSpeech: Fast, Robust and Controllable Text to Speech[[paper]()][[code]()]
 - ParaNet: Parallel Neural Text-to-Speech[[paper]()][[code]()]
-
-## 2018
 - Transformer-TTS - Neural Speech Synthesis with Transformer Network[[paper]()][[code]()]
 - Multi-speaker Tacotron2 - Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis[[paper]()][[code]()]
 - Tacotron2+GST - Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis[[paper]()][[code]()]
-
-
-## 2017
 - Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions[[paper]()][[code]()]
 - Tacotron: Towards End-to-End Speech Synthesis[[paper]()][[code]()]
 
 
 # Vocoder Model
-
 ## Autoregressive Model 
 - WaveNet: WaveNet: A Generative Model for Raw Audio (2016)
 - WaveRNN: Efficient Neural Audio Synthesis (ICML 2018)
