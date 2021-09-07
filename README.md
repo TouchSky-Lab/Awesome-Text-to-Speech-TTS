@@ -1,4 +1,4 @@
-# Feature Generation Model 
+# 1. Feature Generation Model 
 - FastSpeech 2: Fast and High-Quality End-to-End Text to Speech[[paper](https://arxiv.org/abs/2006.04558)][code]
 - FastPitch: Parallel Text-to-speech with Pitch Prediction[[paper](https://arxiv.org/abs/2006.06873)][[code](https://fastpitch.github.io/)]
 - EATS: End-to-End Adversarial Text-to-Speech[[paper](https://arxiv.org/abs/2006.03575)][[code](https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech)]
@@ -17,8 +17,8 @@
 - Tacotron: Towards End-to-End Speech Synthesis[[paper]()][[code]()]
 
 
-# Vocoder Model
-## Autoregressive Model 
+# 2. Vocoder Model
+## 2.1 Autoregressive Model 
 - WaveNet: WaveNet: A Generative Model for Raw Audio (2016)
 - WaveRNN: Efficient Neural Audio Synthesis (ICML 2018)
 - WaveGAN: Adversarial Audio Synthesis (ICLR 2019)
@@ -27,7 +27,7 @@
 - GAN-TTS: High Fidelity Speech Synthesis with Adversarial Networks (2019)
 - MultiBand-WaveRNN: DurIAN: Duration Informed Attention Network For Multimodal Synthesis (2019)
 
-## Non-Autoregressive Model 
+## 2.2 Non-Autoregressive Model 
 
 - MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis. NIPS 2019 [[paper](https://arxiv.org/abs/1910.06711)][[code]()]
 - Parallel-WaveNet: Parallel WaveNet: Fast High-Fidelity Speech Synthesis (2017)
@@ -36,11 +36,11 @@
 - Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech. Interspeech 2020 [[paper](https://arxiv.org/abs/2005.05106)][[code]()]
 
 
-# TTS towards Stylization
-## Expressive TTS
+# 3. TTS towards Stylization
+## 3.1 Expressive TTS
 
 
-## MultiSpeaker TTS
+## 3.2 MultiSpeaker TTS
 - Meta-Learning for TTS: Sample Efficient Adaptive Text-to-Speech (ICLR 2019)
 - SV-Tacotron: Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis (NeurIPS 2018)
 - Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning (ICLR 2018)
@@ -49,13 +49,12 @@
 - SC-WaveRNN: Speaker Conditional WaveRNN: Towards Universal Neural Vocoder for Unseen Speaker and Recording Conditions (Interspeech 2020)
 - MultiSpeaker Dataset: AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines (2020)fe
 
-# Adaptive TTS
+# 4 Adaptive TTS
 - ADASPEECH: ADAPTIVE TEXT TO SPEECH FOR CUSTOM VOICE. ICLR 2021.
 - BOFFIN TTS: FEW-SHOT SPEAKER ADAPTATION BY BAYESIAN OPTIMIZATION. 2020
 - Attentron: Few-Shot Text-to-Speech Utilizing Attention-Based Variable-Length Embedding
 - StrawNet: Self-TrainingWaveNet for TTS in Low-Data Regimes
 - SAMPLE EFFICIENT ADAPTIVE TEXT-TO-SPEECH. ICLR 2019. 
-- 
 
 # Controllable TTS
 - Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis
@@ -67,6 +66,9 @@
 - Investigation of using disentangled and interpretable representations for one-shot cross-lingual voice conversion
 - MELLOTRON: MULTISPEAKER EXPRESSIVE VOICE SYNTHESIS BY CONDITIONING ON RHYTHM, PITCH AND GLOBAL STYLE TOKENS
 - ONE-SHOT VOICE CONVERSION BY VECTOR QUANTIZATION
+- BOOTSTRAPPING NON-PARALLEL VOICE CONVERSION FROM SPEAKER-ADAPTIVE TEXT-TO-SPEECH
+- Transfer Learning From Speech Synthesis to Voice Conversion With Non-Parallel Training Data
+
 
 # TTS with Speaker Embedding
 - Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis. NIPS,2018.
@@ -77,11 +79,6 @@
 # VC with Speaker Embedding
 - One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization
 - Pretraining Techniques for Sequence-to-Sequence Voice Conversion
-
-# VC with TTS
-- BOOTSTRAPPING NON-PARALLEL VOICE CONVERSION FROM SPEAKER-ADAPTIVE TEXT-TO-SPEECH
-- Transfer Learning From Speech Synthesis to Voice Conversion With Non-Parallel Training Data
-
 
 
 # SDK Package
