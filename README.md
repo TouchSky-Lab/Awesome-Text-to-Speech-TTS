@@ -1,5 +1,4 @@
-# 1. Feature Generation Model 
-- FastSpeech 2: Fast and High-Quality End-to-End Text to Speech[[paper](https://arxiv.org/abs/2006.04558)][code]
+# 1. Feature Generation Model(Acoustic Model)
 - FastPitch: Parallel Text-to-speech with Pitch Prediction[[paper](https://arxiv.org/abs/2006.06873)][[code](https://fastpitch.github.io/)]
 - EATS: End-to-End Adversarial Text-to-Speech[[paper](https://arxiv.org/abs/2006.03575)][[code](https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech)]
 - Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search[[paper](https://arxiv.org/abs/2005.11129)][[code](https://jaywalnut310.github.io/glow-tts-demo)]
@@ -8,13 +7,40 @@
 - GAN-TTS: High Fidelity Speech Synthesis with Adversarial Networks [[paper]()][[code]()]
 - Multi-lingual Tacotron2: Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning[[paper]()][[code]()]
 - MelNet: A Generative Model for Audio in the Frequency Domain[[paper]()][[code]()]
-- FastSpeech: Fast, Robust and Controllable Text to Speech[[paper]()][[code]()]
 - ParaNet: Parallel Neural Text-to-Speech[[paper]()][[code]()]
 - Transformer-TTS - Neural Speech Synthesis with Transformer Network[[paper]()][[code]()]
 - Multi-speaker Tacotron2 - Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis[[paper]()][[code]()]
 - Tacotron2+GST - Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis[[paper]()][[code]()]
-- Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions[[paper]()][[code]()]
+
+
+## 1.1 Autoregressive Model
 - Tacotron: Towards End-to-End Speech Synthesis[[paper]()][[code]()]
+- Tacotron2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions[[paper]()][[code]()]
+
+
+## 1.2 Non-Autoregressive Model
+- FastSpeech: Fast, Robust and Controllable Text to Speech[[paper]()][[code]()]
+- FastSpeech 2: Fast and High-Quality End-to-End Text to Speech[[paper](https://arxiv.org/abs/2006.04558)][code]
+
+
+
+## 1.3 Alignment Study
+- Monotonic Attention★: Online and Linear-Time Attention by Enforcing Monotonic Alignments (ICML 2017)
+- Monotonic Chunkwise Attention★: Monotonic Chunkwise Attention (ICLR 2018)
+- Forward Attention in Sequence-to-sequence Acoustic Modelling for Speech Synthesis (ICASSP 2018)
+- RNN-T for TTS: Initial investigation of an encoder-decoder end-to-end TTS framework using marginalization of monotonic hard latent alignments (2019)
+- Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis (ICASSP 2020)
+- Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling (under review ICLR 2021)
+- EfficientTTS: EfficientTTS: An Efficient and High-Quality Text-to-Speech Architecture (2020-12)
+- VAENAR-TTS: VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis (2021-07)
+
+## 1.4 Data Efficiency
+- Semi-Supervised Training for Improving Data Efficiency in End-to-End Speech Synthesis (2018)
+- Almost Unsupervised Text to Speech and Automatic Speech Recognition (ICML 2019)
+- Unsupervised Learning For Sequence-to-sequence Text-to-speech For Low-resource Languages (Interspeech 2020)
+- Multilingual Speech Synthesis: One Model, Many Languages: Meta-learning for Multilingual Text-to-Speech (Interspeech 2020)
+- Low-resource expressive text-to-speech using data augmentation (2020-11)
+- DenoiSpeech: DenoiSpeech: Denoising Text to Speech with Frame-Level Noise Modeling (ICASSP 2021)
 
 
 # 2. Vocoder Model
@@ -38,6 +64,28 @@
 
 # 3. TTS towards Stylization
 ## 3.1 Expressive TTS
+- ReferenceEncoder-Tacotron★: Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron (ICML 2018)
+- GST-Tacotron★: Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis (ICML 2018)
+- Predicting Expressive Speaking Style From Text In End-To-End Speech Synthesis (2018)
+- GMVAE-Tacotron2★: Hierarchical Generative Modeling for Controllable Speech Synthesis (ICLR 2019)
+- BERT-TTS: Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models (2019)
+- (Multi-style Decouple): Multi-Reference Neural TTS Stylization with Adversarial Cycle Consistency (2019)
+- (Multi-style Decouple): Multi-reference Tacotron by Intercross Training for Style Disentangling,Transfer and Control in Speech Synthesis (Interspeech 2019)
+- Mellotron: Mellotron: Multispeaker expressive voice synthesis by conditioning on rhythm, pitch and global style tokens (2019)
+- Flowtron (flow based): Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis (2020)
+- (local style): Fully-hierarchical fine-grained prosody modeling for interpretable speech synthesis (ICASSP 2020)
+- Controllable Neural Prosody Synthesis (Interspeech 2020)
+- GraphSpeech: GraphSpeech: Syntax-Aware Graph Attention Network For Neural Speech Synthesis (2020-10)
+- BERT-TTS: Improving Prosody Modelling with Cross-Utterance BERT Embeddings for End-to-end Speech Synthesis (2020-11)
+- (Global Emotion Style Control): Controllable Emotion Transfer For End-to-End Speech Synthesis (2020-11)
+- (Phone Level Style Control): Fine-grained Emotion Strength Transfer, Control and Prediction for Emotional Speech Synthesis (2020-11)
+- (Phone Level Prosody Modelling): Mixture Density Network for Phone-Level Prosody Modelling in Speech Synthesis (ICASSP 2021)
+- PeriodNet: PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components (ICASSP 2021)
+- Towards Multi-Scale Style Control for Expressive Speech Synthesis (2021-04)
+- Learning Robust Latent Representations for Controllable Speech Synthesis (2021-05)
+- Diverse and Controllable Speech Synthesis with GMM-Based Phone-Level Prosody Modelling (2021-05)
+- Improving Performance of Seen and Unseen Speech Style Transfer in End-to-end Neural TTS (2021-06)
+- DeepRapper: DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling (ACL 2021)
 
 
 ## 3.2 MultiSpeaker TTS
@@ -62,6 +110,8 @@
 
 # 5. Controllable TTS (Disentangled Representations)
 - Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis
+- (Conversational Speech Synthesis): Controllable Context-aware Conversational Speech Synthesis (Interspeech 2021)
+- 
 
 # 6. Grapheme-To-Phoneme
 - 
