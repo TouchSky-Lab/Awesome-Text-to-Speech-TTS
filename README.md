@@ -34,7 +34,7 @@
 - EfficientTTS: EfficientTTS: An Efficient and High-Quality Text-to-Speech Architecture (2020-12)
 - VAENAR-TTS: VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis (2021-07)
 
-## 1.4 Data Efficiency
+## 1.4 Data Efficiency (Data Parallel Study)
 - Semi-Supervised Training for Improving Data Efficiency in End-to-End Speech Synthesis (2018)
 - Almost Unsupervised Text to Speech and Automatic Speech Recognition (ICML 2019)
 - Unsupervised Learning For Sequence-to-sequence Text-to-speech For Low-resource Languages (Interspeech 2020)
