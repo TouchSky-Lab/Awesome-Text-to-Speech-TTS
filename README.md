@@ -118,6 +118,9 @@
 
 
 # SDK Package
+## Voice Infrastructure
+- Sayna, Real-time voice infrastructure with unified TTS API supporting multiple providers (ElevenLabs, OpenAI, Deepgram). Features WebSocket streaming, STT integration, and self-hostable architecture. [[link](https://github.com/SaynaAI/sayna)]
+
 ## Python SDK Package
 - gTTS(Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. [[link](https://pypi.org/project/gTTS/)]
 - pyttsx3, Text to Speech (TTS) library for Python 2 and 3. Works without internet connection or delay. Supports multiple TTS engines, including Sapi5, nsss, and espeak.[[link](https://pypi.org/project/pyttsx3/)]
