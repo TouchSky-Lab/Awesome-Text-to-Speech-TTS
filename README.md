@@ -122,7 +122,7 @@
 - gTTS(Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. [[link](https://pypi.org/project/gTTS/)]
 - pyttsx3, Text to Speech (TTS) library for Python 2 and 3. Works without internet connection or delay. Supports multiple TTS engines, including Sapi5, nsss, and espeak.[[link](https://pypi.org/project/pyttsx3/)]
 - win32com.client: Convert Text to Speech in Python using win32com.client [[link](https://www.geeksforgeeks.org/convert-text-speech-python-using-win32com-client/)]
-- [kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) - Open-source local-first voice toolkit. TTS: Kokoro + Vosk-TTS + 180 macOS system voices, SSML. STT: 25 languages, ~19x faster than Whisper on Apple Silicon via CoreML. Rust engine. No cloud required.
+- [kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) - Open-source local-first voice toolkit. TTS: 9 languages via Kokoro + Vosk-TTS, plus 180 macOS system voices, SSML. STT: 25 languages, ~19x faster than Whisper on Apple Silicon via CoreML. Rust engine. No cloud required.
 
 
 # English Pre-trained Model
