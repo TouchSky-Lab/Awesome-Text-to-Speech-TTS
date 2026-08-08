@@ -121,6 +121,7 @@
 ## Python SDK Package
 - gTTS(Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. [[link](https://pypi.org/project/gTTS/)]
 - pyttsx3, Text to Speech (TTS) library for Python 2 and 3. Works without internet connection or delay. Supports multiple TTS engines, including Sapi5, nsss, and espeak.[[link](https://pypi.org/project/pyttsx3/)]
+- RunAPI ElevenLabs SDK, a multi-language SDK with Python support for text-to-speech, dialogue generation, sound effects, speech transcription, and audio isolation workflows. [[link](https://github.com/runapi-ai/elevenlabs-sdk)]
 - win32com.client: Convert Text to Speech in Python using win32com.client [[link](https://www.geeksforgeeks.org/convert-text-speech-python-using-win32com-client/)]
 
 
@@ -160,6 +161,5 @@
 - https://github.com/seungwonpark/awesome-tts-samples
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers#Speaker-Verification
 - https://github.com/xcmyz/speech-synthesis-paper
-
 
 
