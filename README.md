@@ -122,6 +122,7 @@
 - gTTS(Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. [[link](https://pypi.org/project/gTTS/)]
 - pyttsx3, Text to Speech (TTS) library for Python 2 and 3. Works without internet connection or delay. Supports multiple TTS engines, including Sapi5, nsss, and espeak.[[link](https://pypi.org/project/pyttsx3/)]
 - win32com.client: Convert Text to Speech in Python using win32com.client [[link](https://www.geeksforgeeks.org/convert-text-speech-python-using-win32com-client/)]
+- gradium, Python SDK for Gradium's streaming text-to-speech and speech-to-text APIs. [[link](https://github.com/gradium-ai/gradium-py)]
 
 
 # English Pre-trained Model
