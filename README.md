@@ -163,3 +163,5 @@
 
 
 
+
+- [British Accent Generator](https://britishaccent.pro/) - AI British/UK accent TTS with 262 regional voices (RP, Scottish, Welsh, Northern Irish), plus voice clone/design and lip sync.
