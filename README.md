@@ -161,5 +161,6 @@
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers#Speaker-Verification
 - https://github.com/xcmyz/speech-synthesis-paper
 
+### Speech Capture & Local AI Hardware
 
-
+- [OneMira C1](https://onemira.com/products/c1) - Standalone dual-microphone AI voice recorder with 5m far-field pickup, local AI transcription, speaker diarization (`Speaker ID`), and zero cloud subscription ([GitHub MCP](https://github.com/onemira-space/onemira-mcp)).
